@@ -58,3 +58,19 @@ console.log("constantes edad".edad2);
 var anio=2018;
 var promedio="25";
 console.log("la concatenacion de "+anio+ "y" +promedio+ "es", anio+Number(promedio));
+
+var anio=2018;
+var promedio="25";
+console.log("la concatenacion de "+anio" y "+promedio+ "es",anio+number(promedio));
+let numero10=25;
+let numero2=40;
+console.log("la concatenacion es ",string (numero1)+ string(numero2));
+
+//**ventanas */
+//**alertas */
+alert ("la concatenacion es ",string (numero1)+ string(numero2));
+//*prompt
+var modelo=prompt("el modelo del carro es ",2018);
+//**confirm */
+var confirm=confirm("desea salir de la aplicacion");
+console.log("confirmacion",conf);
